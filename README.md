@@ -1,1 +1,1 @@
-# vim-script-URIHandling
+# vim-script-UriHandling
